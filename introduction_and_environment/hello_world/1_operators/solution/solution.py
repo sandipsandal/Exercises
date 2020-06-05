@@ -1,2 +1,5 @@
 # Code your solution here
-x % y = x // y
+X = 5
+Y = 4
+result = (X % Y) == (X // Y)
+print(result)
